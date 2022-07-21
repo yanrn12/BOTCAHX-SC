@@ -1,11 +1,11 @@
-gc1 = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+gc1 = 'https://saweria.co/IyanMd'
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whats', 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'] // ganti jadi group lu
-global.owner = ['6282221792667'] // Put your number here //owner eval
-global.kontak = ['6282221792667','0'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whats', 'https://saweria.co/IyanMd'] // ganti jadi group lu
+global.owner = ['6289516947204'] // Put your number here //owner eval
+global.kontak = ['6289516947204','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6282221792667'] // Premium user has unlimited limit
+global.prems = ['6289516947204'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -41,20 +41,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Done`
-namakontak1 = 'Tio'
-namakontak2 = 'Tio'
+namakontak1 = '𝚒𝚢𝚊𝚗Ⓒ︎'
+namakontak2 = '𝚒𝚢𝚊𝚗Ⓒ︎'
 
 //kasihcaption = `Done`
 
 // Sticker WM
-global.packname = 'BOTCAHX' // ganti aja
-global.author = 'BOTCAHX' // ganti aja
+global.packname = '𝚒𝚢𝚊𝚗Ⓒ︎' // ganti aja
+global.author = '𝚒𝚢𝚊𝚗Ⓒ︎' // ganti aja
 
 //yyy
-bc = 'BCH' //BOTCAHX BROADCAST
-footer = '\n©BOTCAHX'
-namabot = '𝘽𝙊𝙏𝘾𝘼𝙃𝙓'
-namalu = 'Tio'
+bc = 'BCH' //𝚁𝙲𝚃𝙸 𝙱𝙾𝚃 BROADCAST
+footer = '\n©𝚒𝚢𝚊𝚗Ⓒ︎'
+namabot = '𝚁𝙲𝚃𝙸 𝙱𝙾𝚃'
+namalu = '𝚒𝚢𝚊𝚗Ⓒ︎'
 
 
 // 
